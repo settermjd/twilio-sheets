@@ -1,3 +1,4 @@
 .php-cs-fixer.*
 .phpactor.json
 credentials.json
+data/log/app.log
